@@ -9,11 +9,11 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.dinsaren</groupId>
-    <artifactId>bbu-app-server</artifactId>
+    <artifactId>menghong.app.server</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>bbu-app-server</name>
+    <name>menghong.app.server</name>
     <packaging>jar</packaging>
-    <description>bbu-app-server</description>
+    <description>menghong.app.server</description>
     <properties>
         <java.version>1.8</java.version>
     </properties>
